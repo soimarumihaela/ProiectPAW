@@ -1,0 +1,13 @@
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.csprojAssemblyReference.cache
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.FormInitial.resources
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.FormSofer.resources
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.Properties.Resources.resources
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.csproj.GenerateResource.cache
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.csproj.CoreCompileInputs.cache
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\bin\Debug\ProiectPAWWWWWWW.exe.config
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\bin\Debug\ProiectPAWWWWWWW.exe
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\bin\Debug\ProiectPAWWWWWWW.pdb
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.exe
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.pdb
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.FormMasina.resources
+C:\Users\Utilizator\Desktop\PAW\ProiectPAWWWWWWW\obj\Debug\ProiectPAWWWWWWW.FormRuta.resources
